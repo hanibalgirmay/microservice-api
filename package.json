@@ -1,0 +1,16 @@
+{
+  "name": "api-freecodecamp",
+  "author":"Hanibal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanibalgirmay/microservice-api.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanibalgirmay/microservice-api/issues"
+  },
+  "homepage": "https://github.com/hanibalgirmay/microservice-api#readme"
+}
